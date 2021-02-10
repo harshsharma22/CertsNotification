@@ -1,0 +1,15 @@
+{
+  "name": "certsrenewcronalert",
+  "version": "1.0.0",
+  "description": "sending alert every hour is certs renew period is less than 15 days",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harshsharma22",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ssl-checker": "^2.0.7"
+  }
+}
