@@ -1,2 +1,2 @@
 # CertsNotification
-cron to send notification to slack for certs renew
+cron to *send notification* to slack for renewal of ssl certificate
